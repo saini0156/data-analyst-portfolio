@@ -9,11 +9,16 @@ This repository showcases my projects using SQL, Power BI, Excel, and Python.
 - Skills: SQL, Power BI, Excel, Python, Data Visualization
 
 ## Projects
+### 1. SQL Data Analyst Job Market Analysis
 
-### 1. SQL Data Analysis Project
-- Performed data cleaning and analysis using SQL
-- Used JOINs, GROUP BY, subqueries, and window functions
-- Answered real business questions
+- Conducted exploratory data analysis on job market trends for data analyst roles using SQL.
+- Performed data cleaning, filtering, and transformation using JOINs, GROUP BY, subqueries, and window functions.
+- Answered real-world business questions such as salary distribution, job location trends, and skill demand.
+- Created insights into hiring patterns and regional opportunities for aspiring data analysts.
+- Demonstrated proficiency in writing optimized SQL queries and interpreting business data.
+
+🔗 [View Project Repository](https://github.com/saini0156/sql-data-analyst-job-market-analysis)
+
 - ### 2. Power BI Sales Performance Dashboard
 
 - Built an interactive dashboard in Power BI to analyze sales performance across regions, customers, ship modes, and product sub-categories.
